@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viperboyz
-- 👀 I’m interested in Reach JS
+- 👀 I’m interested in Flutter and Reach JS
 - 🌱 I’m currently learning Reach JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @siaziz
